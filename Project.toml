@@ -1,0 +1,8 @@
+name = "Hello"
+uuid = "0b6fc34b-de21-4f01-b667-d15c1e8ac0d6"
+authors = ["guoyanfeng <guo.yanfeng@dataeveryday.com>"]
+version = "0.1.0"
+
+[deps]
+BinaryBuilder = "12aac903-9f7c-5d81-afc2-d9565ea332ae"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
